@@ -5,4 +5,4 @@
 
 ## Authors
 
-* **[Pavlos Nicolaou](https://github.com/p4vlos)** - *Initial work*
+* **[Pavlos Nicolaou](https://github.com/p4vlos)**
