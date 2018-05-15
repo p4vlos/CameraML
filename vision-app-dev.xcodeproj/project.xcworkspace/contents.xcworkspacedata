@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:CameraML.xcodeproj">
+      location = "self:vision-app-dev.xcodeproj">
    </FileRef>
 </Workspace>

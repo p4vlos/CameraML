@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  CameraML
+//  vision-app-dev
 //
-//  Created by Pavlos Nicolaou on 14/04/2018.
-//  Copyright © 2018 Pavlos Nicolaou. All rights reserved.
+//  Created by Caleb Stultz on 7/11/17.
+//  Copyright © 2017 Caleb Stultz. All rights reserved.
 //
 
 import UIKit
